@@ -1,0 +1,19 @@
+h1 {
+
+      background-color: black;
+      color: lightblue;
+      text-align: left;
+}
+span {
+      color: aqua;
+}
+
+h2 {
+      background-color: blueviolet;
+      text-align: center;
+}
+h3 {
+      background-color:cornflowerblue;
+      text-align: right;
+      font-style: italic;
+}
